@@ -42,6 +42,7 @@ Refer from index.html file
 
 ## OUTPUT
 
+<img width="1211" height="401" alt="Screenshot 2025-09-08 090605" src="https://github.com/user-attachments/assets/c06f0f9d-c4bd-4477-8f74-87a43a2453ef" />
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
